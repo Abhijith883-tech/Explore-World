@@ -237,8 +237,14 @@ p{
     .explore-content{
         width: 100%;
     }
+    .explore-content h1{
+        padding-left: 50px;
+    }
     .tours .col{
         width: 100%;
+    }
+    .tours .ctn{
+        margin-left: 1px;
     }
     .image-gallery{
         justify-content: center;
